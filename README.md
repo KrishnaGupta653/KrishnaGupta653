@@ -101,10 +101,11 @@ Led development of hackathon platform managing 500+ registrations on Azure
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=KrishnaGupta653&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaGupta653&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaGupta653&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/KrishnaGupta653)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaGupta653&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KrishnaGupta653&theme=radical&hide_border=true)](https://github.com/KrishnaGupta653)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaGupta653&layout=compact&theme=radical&hide_border=true&langs_count=6)](https://github.com/KrishnaGupta653)
 
 </div>
 
