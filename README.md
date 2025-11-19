@@ -40,14 +40,6 @@ const Krishna: Developer = {
   },
   location: "India 🇮🇳",
   
-  workExperience: {
-    impact: {
-      warehousesServed: "500+",
-      dailyUsers: "10K+",
-      systemReliability: "99.8%",
-      costReduction: "20%"
-    }
-  },
   
   passions: [
     "Building high-performance web applications",
@@ -56,7 +48,7 @@ const Krishna: Developer = {
   ],
   
   currentFocus: "Creating technology that matters",
-  availability: "Open for Full-Time Roles from July 2026"
+  availability: "Open for Full-Time Roles from July 2025"
 };
 ```
 
@@ -66,7 +58,7 @@ const Krishna: Developer = {
 
 </div>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td align="center" width="33%">
       <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100"><br>
@@ -84,7 +76,7 @@ const Krishna: Developer = {
       <sub>ML models achieving 98%+ accuracy on production datasets</sub>
     </td>
   </tr>
-</table>
+</table> -->
 
 ---
 
@@ -209,13 +201,13 @@ const Krishna: Developer = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Certifications
 
 <div align="center">
-
+<!-- 
 | Certification | Issuer | Year |
 |:-------------:|:------:|:----:|
 | 🏆 **Oracle Cloud Infrastructure 2025 Multicloud Architect Professional** | Oracle | 2025 |
 | 🤖 **OCI Generative AI Professional** | Oracle | 2025 |
 | 🔍 **Oracle AI Vector Search Certified Professional** | Oracle | 2025 |
-| ☁️ **Microsoft Azure AI Fundamentals (AI-900)** | Microsoft | 2024 |
+| ☁️ **Microsoft Azure AI Fundamentals (AI-900)** | Microsoft | 2024 | -->
 
 </div>
 
