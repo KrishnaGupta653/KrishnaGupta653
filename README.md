@@ -31,7 +31,8 @@
 ```typescript
 const Krishna: Developer = {
   code: ["TypeScript", "JavaScript", "Python", "C++", "Java"],
-  currentRole: "Software Developer Intern @ MeraPashu360",
+  currentRole: "Backend Dev @ Paytm",
+  previousRole: "Software Developer Intern @ MeraPashu360",
   education: {
     degree: "B.Tech in Computer Science",
     university: "VIT Vellore",
